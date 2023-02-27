@@ -1,4 +1,5 @@
 # Koleje
+Všechny koleje napojené na hlavní železniční síť SSFS zde musí být uvedeny
 
 ## Hlavní koleje - městské
 - H-City17-01
