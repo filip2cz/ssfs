@@ -14,6 +14,8 @@ Všechny koleje napojené na hlavní železniční síť SSFS zde musí být uve
 
 ## Vedlejší
 - V-Lidice-01
+- V-City17-01
+- V-City17-02
 
 ## Průmyslové koleje
 - P-Lidice-01
